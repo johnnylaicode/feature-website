@@ -1,3 +1,3 @@
 # webdev-class
 ## demo repository
-Hello world!
+Hello world! This is a demo.
