@@ -1,5 +1,2 @@
-# webdev-class
-## demo repository
-Hello world! This is a demo. 
-
-
+# feature-website
+This repository is a demo for feature branching.
